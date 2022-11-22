@@ -1,0 +1,19 @@
+#wpcf7-f2971-p2750-o1 > form > p:nth-child(2) > span:nth-child(1) > input{
+    margin-right: 24px;
+}
+#wpcf7-f2971-p2750-o1 > form > p:nth-child(2) > span:nth-child(4) > input{
+    margin-right: 24px;
+}
+#wpcf7-f2971-p2750-o1 > form > p:nth-child(3) > span:nth-child(1) > textarea{
+    width: 90%;
+}
+.wpcf7-text , .wpcf7-textarea{
+    border: 1px solid #ABABAB;
+}
+#wpcf7-f2971-p2750-o1 > form > p:nth-child(3) > span:nth-child(3){
+    float: left;
+    margin-left: 41px;
+}
+#wpcf7-f2971-p2750-o1 > form > p:nth-child(3) > input{
+    float: right;
+}

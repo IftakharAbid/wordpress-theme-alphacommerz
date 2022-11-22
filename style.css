@@ -1,0 +1,721 @@
+/*  
+Theme Name: alphacommerz
+Theme URI: YourWebsite.com
+Description: Your Theme Description
+Version: 1.0
+Author: Your Name
+Author URI: http://www.yourwebsite.com
+
+*/
+/* Show Hide Sticky Header Speed Control */
+.newslatter_contact.uael-cf7-col {
+    width: 100%;
+}
+.awsm-job-container {
+    margin-top: 90px;
+}
+
+.elementor-icon-list-item > a {
+    text-decoration: none !important;
+}
+
+a.elementor-button-link.elementor-button {
+    text-decoration: none;
+}
+a.eael-creative-button.eael-creative-button--ujarak {
+    text-decoration: none !important;
+}
+a.eael-creative-button.eael-creative-button--default {
+    text-decoration: none;
+}
+.awsm-job-single-wrap.awsm-col-2 .awsm-job-form {
+    float: left;
+   
+    padding-left: 15px;
+    top: 59px;
+    position: sticky;
+    left: 0;
+}
+.awsm-job-more-container {
+    padding-bottom: 20px;
+}
+
+span.awsm-job-more {
+    color: #ffff;
+    /* margin-top: 21px; */
+    padding: 10px 10px;
+    border-radius: 5px;
+    /* margin-bottom: -14px; */
+    background: #141d38;
+}
+.awsm-job-form-plugin-style .awsm-application-submit-btn{
+    background: #141d38;
+    border-radius: 10px;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    padding: 16px 32px;
+    color: #fff;
+}
+.awsm-job-specification-job-location {
+   
+    font-family: "Space Grotesk", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: normal;
+}
+.awsm-grid-item .awsm-job-item {
+	    border: 0px solid #dddfe3 !important;
+    border-radius: 10px;
+}
+
+.awsm-job-item h2.awsm-job-post-title {
+    margin: 0 0 15px;
+    text-align: left;
+    color: #141D38;
+    font-family: "Space Grotesk", Sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+}
+.awsm-job-specification-wrapper {
+  
+    font-family: "Inter", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+
+    margin-bottom: 25px;
+}
+
+
+
+/*
+Book A Call start 
+*/
+
+
+.newslatter_contact{
+	width:100% !important;
+}
+#wpcf7-f3534-o3 > form > div.uael-cf7-col.newslatter_contact > span.wpcf7-form-control-wrap > input{
+	color: white;
+	    height: 43px !important;
+}
+#wpcf7-f3534-o3 > form > div.wpcf7-response-output{
+	display:none;
+}
+#popmake-4166{
+	padding: unset;
+
+}
+.heading_pop{
+	color: #020303;
+	    font-size: 36px;
+    line-height: 47px;
+	    font-family: 'Space Grotesk';
+}
+}
+.peragraph_pop{
+	    font-size: 16px;
+    line-height: 26px;
+	font-family: 'Inter';
+    font-weight: 300;
+}
+.left_form{
+	padding: 44px !important;
+	    font-family: 'Inter';
+	font-weight: 300;
+}
+.pop_logo{
+	    width: 60%;
+    padding-bottom: 29px;
+}
+.right_logo{
+	background-color: #F5F9FF;
+	        text-align: center;
+
+	    padding: 120px 50px !important;
+}
+#wpcf7-f4167-o1 > form > div> span > input{
+   
+    background: transparent;
+    border: transparent;
+    border-bottom: 1px solid #a5abb3 !important;
+    border-radius: 0;
+    color: #020303;
+    display: block;
+    font-family: inherit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    height: 44px;
+    line-height: 1.6;
+    outline: none;
+    padding-bottom: 10px;
+    position: relative;
+    transition: all .2s ease;
+    width: 85%;
+    z-index: 1;
+}
+
+#wpcf7-f4167-o1 > form > p > span:nth-child(1) > textarea{
+	    background: transparent;
+    border: transparent;
+    border-bottom: 1px solid #a5abb3;
+    border-radius: 0;
+    color: #020303;
+    display: block;
+    font-family: inherit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    height: 44px;
+    line-height: 1.6;
+    outline: none;
+    padding-bottom: 10px;
+    position: relative;
+    transition: all .2s ease;
+    width: 92%;
+    z-index: 1;
+
+}
+#wpcf7-f4167-o1 > form > div:nth-child(3) > span:nth-child(2) > input{
+	    -webkit-appearance: listbox;
+    background: transparent;
+    border: transparent;
+    border-bottom: 1px solid #a5abb3;
+    border-radius: 0;
+    color: #020303;
+    display: block;
+    font-family: inherit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    height: 44px;
+    line-height: 1.6;
+    outline: none;
+    padding-bottom: 10px;
+    position: relative;
+    transition: all .2s ease;
+    width: 85%;
+    z-index: 1;
+
+}
+#wpcf7-f4167-o1 > form > p > input{
+	 background-color: #fcb432;
+    border-color: #fcb432;
+    min-width: 128px;
+    padding: 11px 18px;
+    margin-top: 32px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+/*
+Book A Call End 
+*/
+
+/*
+pop up start 
+*/
+.elementor-2750 .elementor-element.elementor-element-e49073b .ha-cf7-form label {
+    width: 67%;
+    float: left;
+}
+#wpcf7-f2971-p2750-o3 > form{
+	text-align: center;
+}
+#wpcf7-f2971-p2750-o3 > form > p > span:nth-child(1) > textarea{
+	width: 97%;
+}
+#wpcf7-f2971-p2750-o3 > form > p > input{
+	float: right;
+}
+#wpcf7-f2971-p2750-o3 > form > p > span:nth-child(3) > span > span{
+	 float: left;
+    width: 23%;
+}
+.wd-logo img[src$=".svg"] {
+    /* height: 100%; */
+    width: 100%;
+    height: auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.uael-cf7-col {
+    float: left;
+    width: 50%;
+}
+#wpcf7-f2971-p2750-o2 > form > p > span:nth-child(3) > span > span{
+	float: left;
+    margin-left: 81px;
+}
+#wpcf7-f2971-p2750-o2 > form > p > input{
+	float: right;
+}
+#wpcf7-f2971-o1 > form > div > span > input{
+	width: 98%;
+    margin-bottom: 18px;
+    padding: 18px 18px 18px 18px;
+    border-radius: 12px 12px 12px 12px;
+    font-family: "Inter", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    color: #515050;
+    margin-top: 5px;
+}
+
+#wpcf7-f2971-o1 > form > p > span:nth-child(1) > textarea {
+    width: 98%;
+    margin-bottom: 18px;
+    padding: 18px 18px 18px 18px;
+    border-radius: 12px 12px 12px 12px;
+    font-family: "Inter", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    color: #515050;
+    margin-top: 5px;
+}
+
+#wpcf7-f2971-o1 > form > p > span:nth-child(3) {
+    width: 84%;
+    float: left;
+}
+
+#wpcf7-f2971-o1 > form > p > input{
+	margin: 0px 0px 0px 0px;
+    padding: 13px 30px 13px 30px;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    border-radius: 10px 10px 10px 10px;
+    color: #FFFFFF;
+    background-color: #141D38;
+}
+
+.pum-theme-3497 .pum-container, .pum-theme-lightbox .pum-container {
+	border-radius: 15px !important;
+    border: 1px solid #141D38 !important;
+}
+#wpcf7-f2971-p2750-o2 > form > p > span:nth-child(3) > span.wpcf7-not-valid-tip{
+	text-align: left;
+    margin-left: 40px;
+}
+@media only screen and (max-width: 960px) {
+	#wpcf7-f2971-o1 > form > p > input {
+    width: 100%;
+		margin: 20px 0px 0px 0px;
+	}
+.uael-cf7-col {
+    float: left;
+    width: 100%;
+}
+	.pum-theme-3497 .pum-title, .pum-theme-lightbox .pum-title {
+    color: #000000;
+    text-align: center;
+    text-shadow: 0px 0px 0px rgb(2 2 2 / 23%);
+    font-family: inherit;
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 36px;
+}
+	
+	#wpcf7-f2971-o1 > form > div > span > input{
+	width: 98%;
+    margin-bottom: 0px;
+    padding: 12px 12px 12px 12px;
+    border-radius: 12px 12px 12px 12px;
+    font-family: "Inter", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    color: #515050;
+    margin-top: 5px;
+}
+	#wpcf7-f2971-o1 > form > p > span:nth-child(1) > textarea {
+    width: 98%;
+    margin-bottom: 18px;
+    padding: 12px 12px 12px 12px;
+    border-radius: 12px 12px 12px 12px;
+    font-family: "Inter", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    color: #515050;
+    margin-top: 0px;
+    height: 16vh;
+}
+	#wpcf7-f2971-o1 > form > p > span:nth-child(3) {
+    width: 60%;
+    float: left;
+}
+}
+
+
+
+/*
+pop up end 
+*/
+
+/*
+Contact Us start
+*/
+
+@media only screen and (max-width: 960px) {
+	
+	span.wpcf7-not-valid-tip {
+    text-align: left;
+    margin-left: 20px;
+}
+	#wpcf7-f2971-p2750-o2 > form > p > input {
+    width: 100%;
+    margin: 20px 0px 0px 0px;
+	}
+	#wpcf7-f2971-p2750-o2 > form > p > span:nth-child(3) > span > span {
+    float: left;
+    margin-left: 9px;
+}
+	
+	#wpcf7-f2971-p2750-o2 > form > div:nth-child(2) > span > input{
+	width: 98%;
+    margin-bottom: 0px;
+    padding: 12px 12px 12px 12px;
+    border-radius: 12px 12px 12px 12px;
+    font-family: "Inter", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    color: #515050;
+    margin-top: 5px;
+}
+	#wpcf7-f2971-p2750-o2 > form > p > span:nth-child(1) > textarea{
+    width: 98% !important;
+    margin-bottom: 18px;
+    padding: 12px 12px 12px 12px;
+    border-radius: 12px 12px 12px 12px;
+    font-family: "Inter", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    color: #515050;
+    margin-top: 0px;
+    height: 16vh;
+}
+	#wpcf7-f2971-p2750-o2 > form > div:nth-child(3) > span:nth-child(3){
+       width: 59% !important;
+    float: left;
+    margin-left: -27px !important;
+}
+	
+	#wpcf7-f2971-p2750-o2 > form > div:nth-child(3) > input {
+    float: right;
+    margin: 0px !important;
+}
+	
+}
+
+#wpcf7-f2971-p2750-o2 > form > div:nth-child(3) > span:nth-child(3) {
+    float: left;
+    margin-left: 46px;
+}
+
+#wpcf7-f2971-p2750-o2 > form > div:nth-child(3) > input{
+	    float: right;
+	margin: 0px 80px 0px 0px;
+}
+#wpcf7-f2971-p2750-o2 > form > p > span:nth-child(1) > textarea {
+    width: 88%;
+}
+
+/*
+Contact Us End
+*/
+
+.topbutton {
+  height:50px;
+  width:50px;
+  position:fixed;
+  right:5px;
+  bottom:5px;
+  Z-index:1;
+  background-image:url("http://test2.test/wp-content/uploads/2022/09/GAMING-HORETELEFONER.png");
+  background-repeat:no-repeat;
+  display:none;
+}
+
+.elementor-2721 .elementor-element.elementor-element-4a2c6c8 .elementor-tab-desktop-title.elementor-active {
+    background-color: #FFFFFF;
+    border-left: 7px double;
+}
+
+#hide-header {
+	transition: all .4s ease!important;
+}
+.blog_tab_category {
+  background: #FCB432;
+  border-radius: 5px;
+  padding: 11px;
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  /* line-height: 26px; */
+  letter-spacing: -1px;
+  color: #141D38;
+}
+
+.ha-post-tab .ha-post-tab-meta span {
+  display: inline-block;
+  margin-top: 0px;
+  margin-right: -175px;
+  color: #9b9b9b;
+  -webkit-transition: all .4s;
+  transition: all .4s;
+}
+.ha-post-tab .ha-post-tab-item-inner .ha-post-tab-title {
+  text-align: left;
+  padding: 0px 10px 0px 20px;
+}
+
+.single_related_post_row{
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+.single_related_post_under_category{
+  background: #FCB432;
+  border-radius: 5px;
+  padding: 7px;
+  width: 47%;
+  text-align: center;
+  font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height */
+
+letter-spacing: -1px;
+
+/* Dark-Blue */
+
+color: #141D38;
+
+}
+
+.featured_post_thumbnail{
+  width: 100%;
+  height: 265px;
+  object-fit: cover;
+  border-radius: 25px 25px 0px 0px;
+}
+.single_related_post_category{
+  float: left;
+  width: 60%;
+  position: relative;
+  margin-top: -15px;
+  margin-left: 33px;
+}
+.single_related_post_view{
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  /* identical to box height */
+  
+  letter-spacing: -1px;
+  
+  /* Yellow */
+  padding: 0px 0px 25px 25px;
+  color: #FCB432;
+}
+.sidebar{
+  margin-top: 195px;
+}
+.single_related_post_view_anchor{
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 26px;
+  /* identical to box height */
+  
+  letter-spacing: -1px;
+  
+  /* Yellow */
+  
+  color: #FCB432;
+}
+.single_related_post_date{
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 23px;
+  /* identical to box height */
+  margin-top: 8px;
+  margin-right: 11px;
+  text-align: right;
+  letter-spacing: -1px;
+  
+  /* Light-Grey */
+  
+  color: #9C9C9C;
+}
+.single_related_box{
+  background: white;
+  border-radius: 25px;
+}
+.single_related_post_title{
+ 
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #141D38;
+    padding: 20px;
+
+}
+.single_related_post_title_anchor{
+
+  font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #141D38;
+}
+
+.postmetadata_single{
+  margin-top: 30px;
+  font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: -1px;
+
+/* Dark-Blue */
+
+color: #141D38;
+
+}
+.single_post_title{
+  margin-top: 30px;
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39px;
+  line-height: 47px;
+  text-align: center;
+  letter-spacing: -1px;
+  color: #141D38;
+  margin-bottom: 52px;
+}
+.single_post_detail{
+  max-width: 1350px !important; 
+  margin-top: 55px;
+
+}
+.single_related_post_title_anchor:hover{
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  color: #141D38;
+  text-decoration: none;
+}
+.single_related_post_view_anchor:hover{
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 26px;
+  /* identical to box height */
+  
+  letter-spacing: -1px;
+  text-decoration: none;
+  /* Yellow */
+  
+  color: #FCB432;
+}
+.ha-post-tab .ha-post-tab-item-inner .ha-post-tab-thumb img {
+	height: 212px !important;
+}
+.ha-post-tab .ha-post-tab-item-inner {
+	padding: 0 !important;
+}
+.ha-post-tab .ha-post-tab-item-inner .ha-post-tab-thumb {
+	position: unset;
+}
+.ha-post-tab-meta-author{
+	    float: left;
+    padding-right: 62px;
+    padding-left: 25px;
+    margin-top: -53px;
+    z-index: 999;
+    position: relative;
+}
+.ha-post-tab-meta{
+	    margin-top: -24px;
+    margin-bottom: 20px;
+}
+/* div.custom-menu-class ul {
+  margin:20px 0px 20px 0px;
+  list-style-type: none;
+  list-style: none;
+  list-style-image: none;
+  text-align:right;
+  display:inline-block;   
+}
+div.custom-menu-class li {
+  padding: 0px 20px 0px 0px;
+  display: inline-block;
+} 
+
+div.custom-menu-class a { 
+  color:rgb(246, 12, 12);
+  text-decoration: none;
+} */
+
+body{
+    margin: 0;
+    font-family:  Inter, Space-Grotesk, Sans-serif;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: top;
+    background: #f5f9ff !important;
+    color: #000000;
+  }
+  html{
+    background: #f5f9ff;
+  }
+  
+  h2{
+    
+    font-family: Rockwell, Arial, Sans-serif;
+    font-size: 30px;
+    color: #000000;
+    
+  }
+  
+ 
+  
+  a:hover{
+    text-decoration: none;
+  }
+  
+ 
